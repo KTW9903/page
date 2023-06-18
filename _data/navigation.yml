@@ -11,17 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "자격증 정보 검색"
       section: services
-    - title: "Portfolio"
+    - title: "자격증 후보"
       section: portfolio
-    - title: "About"
+    - title: "정보"
       section: about
-    - title: "Timeline"
+    - title: "타임라인"
       section: timeline
-    - title: "Team"
+    - title: "개발팀"
       section: team
-    - title: "Contact"
+    - title: "추천테스트"
       section: contact
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
@@ -38,19 +38,19 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
+    - title: "자격증 정보 검색"
       section: servicios
-    - title: "Portafolio"
+    - title: "자격증 후보"
       section: portafolio
-    - title: "Sobre Nosotros"
+    - title: "정보"
       section: nosotros
-    - title: "Cronología"
+    - title: "타임라인"
       section: cronologia
-    - title: "Equipo"
+    - title: "개발팀"
       section: equipo
-    - title: "Contáctenos"
+    - title: "추천테스트"
       section: contacto
-    - title: "Fuente de la plantilla"
+    - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 es-ES:
   <<: *DEFAULT_ES
@@ -61,19 +61,19 @@ es-CO:
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Leistungen"
+    - title: "자격증 정보 검색"
       section: Leistungen
-    - title: "Portfolio"
+    - title: "자격증 후보"
       section: Portfolio
-    - title: "Über uns"
+    - title: "타임라인"
       section: Ueber
-    - title: "Geschichte"
+    - title: "정보"
       section: Geschichte
-    - title: "Team"
+    - title: "개발팀"
       section: Team
-    - title: "Kontakt"
+    - title: "추천테스트"
       section: Kontakt
-    - title: "Quellcode des Themas"
+    - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
 de-DE:
   <<: *DEFAULT_DE
